@@ -1,0 +1,35 @@
+#nav_right_img:active {
+  border: 1px solid salmon;
+  transition: .3s;
+}
+#visi-btn:active, #misi-btn:active {
+  border: 1px solid salmon!important;
+  transition: .3s;
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.section-active {
+  animation: fadeIn .3s forwards;
+}
+.section-off {
+  opacity: 0;
+}
+.bg-customs {
+  background-color: #265895!important;
+}
+::placeholder {
+  color: white!important;
+}
+.form-control:focus {
+  background-color: #34375D!important;
+  color: white!important;
+}
+.form-control {
+  color: white!important;
+}
