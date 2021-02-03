@@ -6,6 +6,9 @@
   border: 1px solid salmon!important;
   transition: .3s;
 }
+img {
+    image-orientation: from-image;
+}
 @keyframes fadeIn {
   from {
     opacity: 0;
