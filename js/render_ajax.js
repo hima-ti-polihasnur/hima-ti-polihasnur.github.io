@@ -83,7 +83,7 @@ container.addEventListener('click', function (el) {
                                     </div>
                                     <!-- Portfolio Modal - Image-->
                                     <div class="ratio ratio-1x1">
-                                      <video class="shadow rounded-md" width="200" height="300" poster="assets/img/preloader.jpg" autoplay loop muted>
+                                      <video class="shadow rounded-md" width="200" height="300" poster="https://hima-ti-polhasnur.github.io/assets/img/preloader.jpg" autoplay loop muted>
                                         <source src="${btn.dataset.linkVid}" type="video/mp4">
                                         Your browser does not support the video tag.
                                       </video>
