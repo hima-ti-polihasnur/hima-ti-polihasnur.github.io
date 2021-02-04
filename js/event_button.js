@@ -60,3 +60,10 @@ misiBtn.on('click', () => {
     $('#visi-misi-layout').fadeIn();
   }
 });
+
+//event tombol close modal
+$('#modal_pengurus').on('click', (e) => {
+  if (e.target.getAttribute('class') == 'close') {
+    $('#modal_pengurus').html('');
+  }
+})
