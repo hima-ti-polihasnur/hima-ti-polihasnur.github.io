@@ -12,7 +12,7 @@ const visiMisi = {
     <li>Menciptakan HIMA Tl POLIHASNUR sebagai wadah yang lebih representatif dalam mengakomodasi aspirasi seluruh anggotanya.</li>
     <li>Mewujudkan HIMA Tl POLIHASNUR yang aktif, profesional don solid serta mau bekerja sama untuk mencapai organisasi mahasiswa yang bersinergi.</li>
     <li>Memperluas relasi dengan mengoptimalkan kegiatan yang berhubungan dengan masyarakat.</li>
-    <li>Meningkatkan potensi mahasiswa Teknik lnformatika di bidang akademik maupun non akademik yang unggul, kompeten. beretika serta berbudi pekerti luhur.</li>
+    <li>Meningkatkan potensi mahasiswa Teknik lnformatika di bidang akademik maupun non akademik yang unggul, kompeten, beretika, serta berbudi pekerti luhur.</li>
   </ol>
   `
 };
