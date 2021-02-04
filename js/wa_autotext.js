@@ -20,7 +20,7 @@ const replaceSymbol = (sampel) => {
 }
 
 const autoText = () => {
-  const admin = '6285654036810';
+  const admin = '6285256485612';
   const namaArr = replaceSymbol( $('#name_sender').val().split('') );
   const instansiArr = replaceSymbol( $('#instansi_sender').val().split('') );
   const pesanArr = replaceSymbol( $('#message_sender').val().split('') );
