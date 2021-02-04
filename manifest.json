@@ -1,11 +1,11 @@
 {
   "name": "HIMA TI POLITEKNIK HASNUR",
-  "short_name": "HIMA TI POLHAS",
+  "short_name": "HIMA TI POLIHASNUR",
   "theme_color": "#006AF8",
   "background_color": "white",
   "icons": [
     {
-      "src": "https://hima-ti-polhasnur.github.io/assets/icon/android-chrome-192x192.png",
+      "src": "https://hima-ti-polihasnur.github.io/assets/icon/android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
