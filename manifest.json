@@ -1,8 +1,8 @@
 {
-  "name": "Web Struktur Kepengurusan | Visi Misi | Galeri HIMA TI POLHASNUR",
+  "name": "HIMA TI POLITEKNIK HASNUR",
   "short_name": "HIMA TI POLHAS",
   "theme_color": "white",
-  "background_color": "white",
+  "background_color": "#006AF8",
   "icons": [
     {
       "src": "https://hima-ti-polhasnur.github.io/assets/icon/android-chrome-192x192.png",
