@@ -1,0 +1,4 @@
+User-Agent: MSNBot
+Allow: /https://hima-ti-polihasnur.github.io/
+Disallow: /https://hima-ti-polihasnur.github.io/assets
+
